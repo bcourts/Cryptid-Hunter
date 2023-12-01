@@ -1,5 +1,5 @@
 """
-Program: Cryptid Hunter (CourtsBrookesM06_1.py)
+Program: Cryptid Hunter
 Author: Brookes Courts
 Last Date Modified: 01 December 2023
 Cryptid Hunter is a text based Choose Your Own Adventure game that uses TKinter.
